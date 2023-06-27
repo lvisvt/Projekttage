@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    background-color: #eee;
+    font: 200 16px/20px "Noto Sans";
+    display: flex;
+    min-height: 100dvh;
+    align-content: flex-start;
+    justify-content: center;
+}
+
+.card {
+    background: #2a8a63;
+    color:  white;
+}
